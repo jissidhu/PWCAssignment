@@ -1,0 +1,5 @@
+resources\Base.class
+MyRunner\TestRunner.class
+Runner\TestRunner.class
+pageObjects\HomePage.class
+stepDefinitions\CombinedStepDefinition.class

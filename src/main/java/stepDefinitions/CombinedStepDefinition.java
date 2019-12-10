@@ -32,7 +32,7 @@ public class CombinedStepDefinition extends Base {
 		driver.manage().window().maximize();
 	}
 
-	/* Scenario: Validate Home Page */
+	/* Scenario: Validate Home Page using POM */
 
 	@When("^I am viewing the ‘Home’ page$")
 	public void i_am_viewing_the_home_page() {
